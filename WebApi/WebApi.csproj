@@ -7,6 +7,38 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="bin\Release\net6.0\publish\ReactWebApi01\appsettings.Development.json" />
+    <Content Include="bin\Release\net6.0\publish\ReactWebApi01\appsettings.json" />
+    <Content Include="bin\Release\net6.0\publish\ReactWebApi01\WebApi.deps.json" />
+    <Content Include="bin\Release\net6.0\publish\ReactWebApi01\WebApi.runtimeconfig.json" />
+    <Content Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\asset-manifest.json" />
+    <Content Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\favicon.ico" />
+    <Content Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\index.html" />
+    <Content Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\logo192.png" />
+    <Content Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\logo512.png" />
+    <Content Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\manifest.json" />
+    <Content Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\robots.txt" />
+    <Content Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\static\css\main.e6c13ad2.css" />
+    <Content Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\static\js\main.108f5359.js.LICENSE.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Release\net6.0\publish\ReactWebApi01\Microsoft.OpenApi.dll" />
+    <None Include="bin\Release\net6.0\publish\ReactWebApi01\Swashbuckle.AspNetCore.Swagger.dll" />
+    <None Include="bin\Release\net6.0\publish\ReactWebApi01\Swashbuckle.AspNetCore.SwaggerGen.dll" />
+    <None Include="bin\Release\net6.0\publish\ReactWebApi01\Swashbuckle.AspNetCore.SwaggerUI.dll" />
+    <None Include="bin\Release\net6.0\publish\ReactWebApi01\web.config" />
+    <None Include="bin\Release\net6.0\publish\ReactWebApi01\WebApi.dll" />
+    <None Include="bin\Release\net6.0\publish\ReactWebApi01\WebApi.exe" />
+    <None Include="bin\Release\net6.0\publish\ReactWebApi01\WebApi.pdb" />
+    <None Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\static\css\main.e6c13ad2.css.map" />
+    <None Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\static\js\787.425f66d6.chunk.js" />
+    <None Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\static\js\787.425f66d6.chunk.js.map" />
+    <None Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\static\js\main.108f5359.js" />
+    <None Include="bin\Release\net6.0\publish\ReactWebApi01\wwwroot\static\js\main.108f5359.js.map" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
